@@ -2,7 +2,9 @@
 
 ##### phpStudy集成环境
 
-&emsp;&emsp;在网站根目录 WWW/ 下创建目录（如demo/）用于存放相关文件。
+&emsp;&emsp;在网站根目录 WWW/ 下创建目录（如demo/）用于存放相关文件，示例：
+
+![](picture/1.png)
 
 &emsp;&emsp;如果使用文件版 login.php 和 register.php ，请在 demo/ 目录下创建 account/ 目录用于存放用户信息。
 
